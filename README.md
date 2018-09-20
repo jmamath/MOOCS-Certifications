@@ -1,5 +1,6 @@
 # MOOCS-Certifications
-I am a passionate self-learner, here is the topic I have been working on my spare time in retro chronological order
+I am a passionate self-learner, here is the topic I have been working on my spare time in retro chronological order.
+You can see the certificate in the right folder.
 ## 2018
 * **Introduction to Game Development** by Coursera from *Michigan State University*
 * **Bayesian Methods for Machine Learning** by Coursera from *National Research University Higher School of Economics*
